@@ -3,3 +3,4 @@
 *.pt
 *.json
 *.safetensors
+*.onnx
